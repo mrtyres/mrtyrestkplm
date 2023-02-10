@@ -1,4 +1,4 @@
-# MR Tyres Puliyanmala
+# MR Tyres Thookkupalam
 
 Landing page for MR Tyres Puliyanmala
 
